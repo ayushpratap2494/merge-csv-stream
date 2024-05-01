@@ -1,0 +1,26 @@
+{
+  "name": "merge-csv-stream",
+  "version": "1.0.0",
+  "description": "merge-csv-stream is a lightweight Node.js package designed to streamline the process of merging multiple CSV files into a single CSV file. With its intuitive interface and native Node.js code, MergeCSV offers a seamless solution for developers looking to efficiently concatenate CSV data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushpratap2494/merge-csv-stream.git"
+  },
+  "keywords": [
+    "csv-stream",
+    "merge-csv",
+    "merge-csv-stream",
+    "csv",
+    "csv-merger"
+  ],
+  "author": "Ayush Pratap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushpratap2494/merge-csv-stream/issues"
+  },
+  "homepage": "https://github.com/ayushpratap2494/merge-csv-stream#readme"
+}
